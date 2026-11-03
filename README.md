@@ -17,6 +17,6 @@ Elle croise plusieurs jeux de données publiés par la SNCF.
 - sf (lecture fichier .gson)
 - leaflet (cartographie)
 - dplyr (manipulation des données)
-- tidyr(manipulation des données)
+- tidyr (manipulation des données)
 -  htmlwidgets (création d'un site HTML GitHub Pages)
 - readr (lecture des bases de données)
